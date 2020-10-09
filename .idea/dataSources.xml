@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="PracticaMeta12" uuid="c1143b45-e1ac-4018-a971-c7c10082fb6d">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\jeniffer\Desktop\tarea2pooa\Equipo-A-circleci-project-setup\vpproject\PracticaMeta12.vpp</jdbc-url>
+    </data-source>
+  </component>
+</project>
